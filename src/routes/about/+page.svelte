@@ -1,7 +1,3 @@
-<script context="module" lang="ts">
-	export const prerender = true;
-</script>
-
 <div class="container">
 	<div class="imgText">
 		<div class="img">

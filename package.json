@@ -19,6 +19,10 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sveltejs/adapter-static": "^1.0.1"
+		"@sveltejs/adapter-static": "^1.0.1",
+		"postcss": "^8.4.21",
+		"postcss-load-config": "^4.0.1",
+		"svelte-preprocess": "^5.0.0",
+		"typescript": "^4.9.4"
 	}
 }
